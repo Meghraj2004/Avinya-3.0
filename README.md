@@ -1,4 +1,4 @@
-# 🚀 Avinya 3.0
+# 🚀 Disaster Co-ordination Response Platform
 
 **Avinya 3.0** is a Java-based web application developed using the Spring Boot framework. This project serves as a foundational template for building scalable and maintainable web applications, incorporating best practices and standard conventions.
 
